@@ -1,4 +1,4 @@
-# bernardogn.github.io
+ bernardogn.github.io
 
 - 👋 Hi, I’m @bernardogn
 - 🌱 I’m currently learning principaly C++
