@@ -1,3 +1,5 @@
+# bernardogn.github.io
+
 - 👋 Hi, I’m @bernardogn
 - 🌱 I’m currently learning principaly C++
 - 📫 How to reach me? just chat me.
